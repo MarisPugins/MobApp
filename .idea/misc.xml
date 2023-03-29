@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/drawable/background_circle_shape.xml" value="0.1" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/drawable/background_default_gradient_button.xml" value="0.1" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/drawable/background_rounded_bottom_shape.xml" value="0.1" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1365" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/activity_main.xml" value="0.34024896265560167" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/first_homework_bottom_calc_dialog.xml" value="0.28703703703703703" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/first_homework_main.xml" value="0.28703703703703703" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/first_homework_wallpaper.xml" value="0.28703703703703703" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/fragment_first_homework.xml" value="0.5546875" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/fragment_home.xml" value="0.5298126064735945" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/fragment_lucky_part.xml" value="0.5546875" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/fragment_second_homework.xml" value="0.5546875" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/fragment_third_homework.xml" value="0.5546875" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/qr_code_scanner.xml" value="0.264" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/second_homework_activity_contact.xml" value="0.29907407407407405" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/second_homework_main.xml" value="0.21671826625386997" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/second_homework_single_contact.xml" value="0.29907407407407405" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/third_homework_main.xml" value="0.21671826625386997" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/third_homework_person_data.xml" value="0.29907407407407405" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/third_homework_person_list.xml" value="0.29907407407407405" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/third_homework_rv_artist.xml" value="0.29907407407407405" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/third_homework_rv_songs.xml" value="0.3140625" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/layout/third_homeworkrv_songs.xml" value="0.22" />
+        <entry key="..\:/Users/N-6/AndroidStudioProjects/GalaDarbs/app/src/main/res/menu/main_menu.xml" value="0.28703703703703703" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

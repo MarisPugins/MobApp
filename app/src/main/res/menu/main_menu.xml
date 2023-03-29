@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+          android:icon="@drawable/ic_baseline_home_24"
+          android:title="HOME"/>
+
+    <item android:id="@+id/nav_wallpaper"
+        android:icon="@drawable/ic_baseline_wallpaper_24"
+        android:title="FIRST HOMEWORK"/>
+
+    <item android:id="@+id/nav_json"
+        android:icon="@drawable/icon_json"
+        android:title="SECOND HOMEWORK"/>
+
+    <item android:id="@+id/nav_recycle"
+        android:icon="@drawable/icons_recycle"
+        android:title="THIRD HOMEWORK"/>
+
+
+
+
+</menu>
